@@ -11,8 +11,6 @@
 <img width="588" height="104" alt="image" src="https://github.com/user-attachments/assets/e9812193-d5cf-4bec-b037-5d5ecf5a2b1e" />
 <img width="873" height="213" alt="image" src="https://github.com/user-attachments/assets/6fa3a0f1-151e-47b9-8206-d5dcb30ab8b2" />
 
-## Алгоритм 
-
 # Задание 1
 
 ## Результаты 
