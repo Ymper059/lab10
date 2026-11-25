@@ -25,6 +25,17 @@
 
 <img width="715" height="290" alt="image" src="https://github.com/user-attachments/assets/934de136-80eb-487f-9e60-75b45c2d4718" />
 
+# Задание 2
+
+## Результаты 
+
+<img width="1057" height="614" alt="image" src="https://github.com/user-attachments/assets/7bf39ebd-a8a6-4264-bb3d-e33912835078" />
+
+# Задание 3
+
+## Результаты 
+
+<img width="794" height="711" alt="image" src="https://github.com/user-attachments/assets/5e01e395-fa28-4ec0-a052-a4c69f71c2b6" />
 
 
 
